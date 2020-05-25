@@ -1,0 +1,25 @@
+'@n*[0-9]' '&a@%' < temp-test/2211.inp.937.1
+'?-' '&' < temp-test/182.inp.81.3
+'[>-A]' 'V' < input/ruin.1531
+'[^9-B]-' '&a@%' < temp-test/640.inp.276.2
+'$@[*-?[a-c' < temp-test/207.inp.93.1
+'a' '12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890' < moni/f7.inp
+'[a-c[^-' 'a&' < temp-test/1135.inp.488.1
+'?[^a]**' 'a' < moni/f7.inp
+'@**-' '@t' < temp-test/1861.inp.789.3
+'*' '&#tvW5KHbWqppCxb#?ETu@O\!uhsxBI)E%Bx6E9Db>;g[q'\''1' < input/ruin.1533
+'[d*]*' '&@t&@t&' < moni/rr8.t
+'[a-c]?' '@t' < temp-test/645.inp.279.2
+'?' ''\''' < input/ruin.1176
+'-[^-z][^a-c]-[a-c][^a-c]-*-?^?^a-c]?-?' 'a&' < temp-test/2312.inp.981.1
+'[^c-aA-GA-G]' '`D)'\''CsjN5-8Dcm%JYz\!iFF' < input/ruin.1351
+'%?c*$' '@n' < temp-test/350.inp.153.11
+'[^@@]-' 'a&' < temp-test/2352.inp.998.3
+'@n*[^0-9]?--[^a--@*' '@t' < temp-test/1064.inp.457.3
+'*' '@' < input/ruin.878
+'@;$' '+W}](~9#6;Go0J- XybH&<\0E$9' < input/ruin.8
+'*-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?' ',' < input/ruin.1353
+'@n'  < input/ruin.1157
+'$%-[@n][^a--b]$' 'NEW' < temp-test/216.inp.96.11
+'%*?$' < input/ruin.1265
+< input/ruin.400

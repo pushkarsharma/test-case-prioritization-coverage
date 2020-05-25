@@ -1,0 +1,17 @@
+'[9-B]?' '@%&a' < temp-test/799.inp.344.1
+'@n@@?' '09xj8*p{[Tk=E|P~H.Ge{Py<Z' < input/ruin.35
+'[^--z]%[9-B]**' 'a' < moni/f7.inp
+'a' '12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890' < moni/f7.inp
+'[^9-B]@t*[^9-B]-[a--b][-z]-$' '' < temp-test/835.inp.359.6
+'-[a-c]-[^-z]' '@%&a' < temp-test/1831.inp.779.1
+'[^9-B]@[*' '&' < temp-test/2029.inp.861.1
+'%-' '' < temp-test/1650.inp.703.5
+'[1-8@t\!()]*' '&@t&@t&' < moni/rr17.t
+'%?-' '@n' < temp-test/913.inp.393.5
+'[a-[^0-9]A*[^9-B][^a-c[^a-c@[-?[^-[0-9]?[^a-c]' 'a@nb@tc' < temp-test/98.inp.44.2
+'[^0-9]-?[9-B]?-[9-B]?'  < temp-test/525.inp.228.1
+'-[0-9]-[9-B][^0-9]-[0-9]?c-?[a-c@*-' '' < temp-test/1323.inp.568.2
+'%??^[^9-B]@*?@**$' '@n' < temp-test/251.inp.111.11
+'someacharlongstringdoesntmatterwhatitisbutmustbeverylongwhateverthecharactersaredonesntmatteraslongasthestringistherightlengthandendswiththerightcharacterlkj45?123456hereanycharcharcacterswilldojusttypinginsomechars@nandsomeflags@n@t-12345612345?123456-12345612312345?123456-12345612345?123456-12345612345612345?123456-123456123455?123456-1234561234512345?123456-12345612345?123456-1234561234567890?123456-12345612345?123456-1234561234512345?123456-12345612345?123456-123456[a-c-9]' 'substringdoesntmatter' < input/ruin.1338
+< input/ruin.1592
+'=' '&g=Vs@DVtKv;1f. _Ep8=Z <(H&'\''qa&&0rVBXTKdv<G31kbGiPE1^kzBV;j=@' < input/ruin.552
